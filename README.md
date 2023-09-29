@@ -1,0 +1,3 @@
+# Kaggle-Advanced-Housing
+Attempts at the Kaggle Advanced Regression competition, centered around Ames, Iowa housing prices.
+The first two notebooks, house_price_reg_competition and house_price_reg_competition_2, show my attempts at using PCA to counter the dataset's high dimensionality. The feature_importance notebooks show my attempts at feature engineering and "pruning", and finding a model with low CV error. My final test error was 0.189, a vast improvement from previous attempts, but this score kept me below 3000th place in a competition of a little over 4000 participants. I definitely plan on revisiting this competition when I find the time (at the time of writing this readme, my last year of college had just begun).
